@@ -2,8 +2,5 @@
 
 import Foundation
 
-let input = readLine()!
-let array = input.components(separatedBy: " ").map { Int(String($0))! }
-let result = array[0] + array[1]
-
-print(result)
+let array = readLine()!.components(separatedBy: " ").map { Int(String($0))! }
+print(array[0] + array[1])
