@@ -4,7 +4,7 @@
 
 ### Class 1
 [1000](https://github.com/idghst/algorithm/blob/main/Beakjoon/1000)
-<!-- [1001](https://github.com/idghst/algorithm/blob/main/Beakjoon/) -->
+[1001](https://github.com/idghst/algorithm/blob/main/Beakjoon/1001)
 <!-- [1008](https://github.com/idghst/algorithm/blob/main/Beakjoon/) -->
 <!-- [1330](https://github.com/idghst/algorithm/blob/main/Beakjoon/) -->
 <!-- [2438](https://github.com/idghst/algorithm/blob/main/Beakjoon/) -->
