@@ -10,7 +10,7 @@
 [2438](https://github.com/idghst/algorithm/blob/main/Beakjoon/2438)
 <!-- [2475](https://github.com/idghst/algorithm/blob/main/Beakjoon/2475) -->
 [2557](https://github.com/idghst/algorithm/blob/main/Beakjoon/2557)
-<!-- [2739](https://github.com/idghst/algorithm/blob/main/Beakjoon/2739) -->
+[2739](https://github.com/idghst/algorithm/blob/main/Beakjoon/2739)
 <!-- [2741](https://github.com/idghst/algorithm/blob/main/Beakjoon/2741) -->
 <!-- [2753](https://github.com/idghst/algorithm/blob/main/Beakjoon/2753) -->
 <!-- [9498](https://github.com/idghst/algorithm/blob/main/Beakjoon/9498) -->
